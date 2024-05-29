@@ -1,4 +1,4 @@
-###  DEMO VIẾT 1 BLOG ĐƠN GIẢN, CÔNG NGHỆ SỬ DỤNG: ASP.NET CORE 8, LINGQ, SQL Server: Store procedure, Trigger, Function, JWT 
+###  DEMO VIẾT 1 BLOG ĐƠN GIẢN, CÔNG NGHỆ SỬ DỤNG: ASP.NET CORE 8, LINGQ, SQL Server, JWT 
 ### ASPNET Core API using Net 8.0 <br>
 ASP.NET Core là một framework đa nền tảng, mã nguồn mở để xây dựng các ứng dụng web hiện đại, dựa trên đám mây trên Windows, macOS hoặc Linux.<br>
 ASP.NET Core là một open-source mới và framework đa nền tảng (cross-platform) cho việc xây dựng những ứng dụng hiện tại dựa trên kết nối đám mây, giống như web apps, IoT và backend cho mobile. Ứng dụng ASP.NET Core có thể chạy trên .NET Core hoặc trên phiên bản đầy đủ của .NET Framework.
