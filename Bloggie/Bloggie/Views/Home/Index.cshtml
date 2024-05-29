@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    <div class="col-3 mb-4 mt-4">
+        @await Component.InvokeAsync("Menu");
+        
+    </div>
+    <div class="col-9 mt-4 mb-4">
+        <ul class="list-group">
+            @await Component.InvokeAsync("Content")
+        </ul>
+    </div>
+
+</div>

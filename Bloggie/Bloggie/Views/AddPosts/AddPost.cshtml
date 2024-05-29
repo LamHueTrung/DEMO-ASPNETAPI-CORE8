@@ -1,0 +1,45 @@
+﻿@model Bloggie.Models.ViewModels.AddPostViewModel
+
+<div class="container mb-5">
+    <h2 class="title align-content-center text-center"> THÊM MỚI NGƯỜI DÙNG</h2>
+    @if (ViewData["SuccessMessage"] != null)
+    {
+        <div class="alert alert-success" role="alert">
+            @ViewData["SuccessMessage"]
+        </div>
+    }
+    @if (ViewData["ErrorMessage"] != null)
+    {
+        <div class="alert alert-danger" role="alert">
+            @ViewData["ErrorMessage"]
+        </div>
+    }
+    <form method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="exampleInputEmail1">Tiêu đề bài viết</label>
+            <input type="text" class="form-control" id="Title" asp-for="PostRequest.Title">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Nội dung</label>
+            <textarea class="h-100" id="contenttextarea" asp-for="PostRequest.Content"></textarea>
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">UserName người viết bài</label>
+            <input type="text" class="form-control" id="Author" asp-for="PostRequest.Author">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Hình ảnh</label>
+            <input type="file" class="form-control" id="ImageUrl" name="Avatar" asp-for="PostRequest.ImageUrl">
+        </div>
+        <div class="form-group">
+            <label for="exampleInputPassword1">Loại bài viết</label>
+            <select class="form-control form-select" id="TagId" asp-for="PostRequest.TagId">
+                @foreach (var tag in Model.Tags)
+                {
+                    <option value="@tag.TagId">@tag.Name</option>
+                }
+            </select>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

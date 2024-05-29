@@ -1,0 +1,71 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Bloggie
+build_property.RootNamespace = Bloggie
+build_property.ProjectDir = D:\my website\ASP_NET\DEMO\Bloggie\Bloggie\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\my website\ASP_NET\DEMO\Bloggie\Bloggie
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/AddPosts/AddPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkUG9zdHNcQWRkUG9zdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/AddTags/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkVGFnc1xBZGRUYWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/AddUsers/AddUser.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkVXNlcnNcQWRkVXNlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/GetDescPost/DescriptionPost.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2V0RGVzY1Bvc3RcRGVzY3JpcHRpb25Qb3N0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Shared/Components/Content/ContentView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGVudFxDb250ZW50Vmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Shared/Components/Menu/ViewTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTWVudVxWaWV3VGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/my website/ASP_NET/DEMO/Bloggie/Bloggie/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ttgcsr070l
