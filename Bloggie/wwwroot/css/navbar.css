@@ -1,0 +1,12 @@
+﻿.navbar {
+    background-color: #0c5776 !important;
+    color: white;
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+}
+
+.navbar-nav {
+    color: white;
+}
+

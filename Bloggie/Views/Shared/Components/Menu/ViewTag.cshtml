@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Bloggie.Models.Domain.Tag>
+
+<ul class="list-group">
+    <li class="list-group-item menu">Tất cả bài viết</li>
+    @foreach (var item in Model)
+    {
+        <li class="list-group-item menu">@item.Name</li>
+    }
+</ul>

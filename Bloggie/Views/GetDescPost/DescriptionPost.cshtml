@@ -1,0 +1,27 @@
+﻿@model Bloggie.Models.ViewModels.GetDescriptionPostViewModel
+@{
+}
+
+<div class="col-sm mt-4 mb-4" style="margin-bottom: 2rem">
+    <div class="container">
+        <div class="row-sm mb-4">
+            <h2 class="story-title">
+                @Model.Title
+            </h2>
+            <span class='user-story'>
+                <img class='avt-user' 
+                src="@Model.ImageAuthor" 
+                alt=""
+                />
+                <span class='user-name'>@Model.NameAuthor</span>
+            </span>
+            <div class='d-flex mt-2'>
+                <span class='dated-story d-block w-100'>@Model.CreatedAt</span>
+            </div>
+            <img class='mt-2 w-100 mb-4' src="@Model.ImageUrl" alt="" />
+            <div style="margin-top: 1rem; margin-bottom: 1rem;">
+                @Html.Raw(@Model.Content)
+            </div>
+        </div>
+    </div>
+</div>

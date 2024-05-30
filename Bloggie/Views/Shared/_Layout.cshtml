@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Bloggie</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/StyleSheet.scss" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Bloggie.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/base.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/navbar.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/BloggieASP.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm  border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-white text-white" asp-area="" asp-controller="Home" asp-action="Index">BloggieASP</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" asp-area="" asp-controller="Home" asp-action="Index">Trang chủ</a>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle  text-white" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
+                                Thêm mới
+                            </a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item " asp-area="" asp-controller="AddTags" asp-action="AddTag">Loại Bài viết</a>
+                                <a class="dropdown-item " asp-area="" asp-controller="AddPosts" asp-action="AddPost">Bài viết</a>
+                                <a class="dropdown-item " asp-area="" asp-controller="AddUsers" asp-action="AddUser">Người dùng</a>
+                            </div>
+                        </li>
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container mb-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted ">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <span>&copy; 2024 - Bloggie</span>
+                </div>
+                <div class="col-md-6 text-md-right">
+                    <span><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a></span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.min.js" integrity="sha384-+sLIOodYLS7CIrQpBjl+C7nPvqq+FbNUBDunl/OZv93DB7Ln/533i8e/mZXLi/P+" crossorigin="anonymous"></script>
+    @* sử dụng trình soạn thảo *@
+    <script src="https://cdn.tiny.cloud/1/o29guz2bc0batsbdf7iutck5hl13r6zea3yfcxtce8zfw8jo/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
+    <script>
+        tinymce.init({
+            selector: '#contenttextarea',
+            plugins: 'image',
+            toolbar: 'undo redo | formatselect | fontsizeselect | bold italic underline | alignleft aligncenter alignright | bullist numlist | image',
+            fontsize_formats: '8pt 10pt 12pt 14pt 18pt 24pt 36pt', // Các cỡ chữ có sẵn
+            setup: function (editor) {
+                editor.on('change', function () {
+                    editor.save();
+                });
+
+                // Thêm nút tùy chỉnh để chèn hình ảnh
+                editor.ui.registry.addButton('customInsertImage', {
+                    icon: 'image',
+                    tooltip: 'Insert image',
+                    onAction: function (_) {
+                        editor.plugins.image.open();
+                    }
+                });
+            },
+            file_picker_callback: function (callback, value, meta) {
+                // Mở dialog để chọn file ảnh và gửi file được chọn đến callback
+                // Ví dụ đơn giản: chọn file từ máy tính và trả về URL của file
+                var input = document.createElement('input');
+                input.setAttribute('type', 'file');
+                input.setAttribute('accept', 'image/*');
+                input.onchange = function () {
+                    var file = this.files[0];
+                    var reader = new FileReader();
+                    reader.onload = function () {
+                        var blobCache = tinymce.activeEditor.editorUpload.blobCache;
+                        var base64 = reader.result.split(',')[1];
+                        var blobInfo = blobCache.create(file.name, file, base64);
+                        blobCache.add(blobInfo);
+                        callback(blobInfo.blobUri(), { title: file.name });
+                    };
+                    reader.readAsDataURL(file);
+                };
+                input.click();
+            }
+        });
+    </script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

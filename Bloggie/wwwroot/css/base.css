@@ -1,0 +1,131 @@
+﻿:root {
+    --PrimaryColor: hsl(199, 100%, 33%);
+    --SecondaryColor: hsl(187, 85%, 43%);
+    --gradientColor: linear-gradient( to right, hsl(187, 85%, 43%), hsl(199, 100%, 33%) );
+    --whiteColor: hsl(0, 0%, 100%);
+    --blackColor: hsl(201, 33%, 16%);
+    --textColor: hsl(240, 4%, 46%);
+    --whiteColorDeam: hsl(0, 0%, 93%);
+    --greyText: rgb(190, 190, 190);
+    --inputColor: rgb(239, 239, 239);
+    --bodyColor: rgb(240, 240, 246);
+    --cardBG: rgb(225, 225, 235);
+    --cardHover: rgb(225, 225, 235);
+}
+
+.w-15 {
+    width: 15% !important;
+}
+
+.w-30 {
+    width: 30% !important;
+}
+
+.w-70 {
+    width: 70% !important;
+}
+
+.w-75 {
+    width: 75% !important;
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.fs-login {
+    font-size: 1rem !important;
+}
+
+.w-35 {
+    width: 35% !important;
+}
+
+.w-95 {
+    width: 95% !important;
+}
+
+.mt-3 {
+    margin-top: 1.5rem !important;
+}
+
+.mt-7 {
+    margin-top: 3.5rem !important;
+}
+
+.pd-005 {
+    padding-top: 5% !important;
+}
+
+.mr-4 {
+    margin-right: 0.5rem !important;
+}
+
+.float-left {
+    float: left !important;
+}
+
+.left {
+    margin-left: 1rem !important;
+}
+
+.bg-none {
+    background: none;
+}
+
+.float-right {
+    float: right !important;
+}
+
+.btn {
+    padding: 0.6rem 1.5rem;
+    background: var(--gradientColor);
+    border-radius: 3rem;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+    .btn:hover {
+        background: var(--SecondaryColor);
+    }
+
+.btn-primary {
+    margin-top: 1rem;
+    color: var(--whiteColor);
+    font-weight: 600;
+    justify-content: space-between;
+    gap: 0.5rem;
+}
+
+textarea:focus {
+    outline: none;
+}
+
+.THANKS {
+    color: var(--PrimaryColor) !important;
+    font-style: italic;
+    font-weight: bold;
+}
+
+textarea {
+    white-space: pre-wrap;
+}
+
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none !important;
+    color: #333 !important;
+    cursor: pointer;
+}
+@keyframes left-right {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
