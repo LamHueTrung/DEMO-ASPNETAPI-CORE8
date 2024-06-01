@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="~/css/base.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/navbar.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/css/home.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/BloggieASP.styles.css" asp-append-version="true" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 </head>
@@ -41,6 +42,8 @@
 
                     </ul>
                 </div>
+                <a class="navbar-white text-white" asp-area="" asp-controller="Login" asp-action="Index">Đăng nhập</a>
+
             </div>
         </nav>
     </header>
@@ -57,7 +60,7 @@
                     <span>&copy; 2024 - Bloggie</span>
                 </div>
                 <div class="col-md-6 text-md-right">
-                    <span><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy Policy</a></span>
+                    <span><a asp-area="" asp-controller="Login" asp-action="Login">Privacy Policy</a></span>
                 </div>
             </div>
         </div>

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "t4hFDzrSSnGU0uqSul6ViMjts2n0AcGZ6ZwDM3pBJgY=",
+  "Hash": "Misq2monDFB5tJIxYgx8bhGY5mpi0/8TYPfjDSL7fQU=",
   "Source": "Bloggie",
   "BasePath": "_content/Bloggie",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Bloggie\\wwwroot",
       "Source": "Bloggie",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bloggie.styles.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bloggie.styles.css",
       "SourceId": "Bloggie",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "Bloggie.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bloggie.styles.css"
+      "OriginalItemSpec": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Bloggie.styles.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bloggie.bundle.scp.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bloggie.bundle.scp.css",
       "SourceId": "Bloggie",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "Bloggie.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bloggie.bundle.scp.css"
+      "OriginalItemSpec": "D:\\365\\DEMO\\Bloggie\\Bloggie\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bloggie.bundle.scp.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\base.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\base.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "css/base.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\base.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\home.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\home.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "css/home.css",
       "AssetKind": "All",
@@ -93,10 +93,29 @@
       "OriginalItemSpec": "wwwroot\\css\\home.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\navbar.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\Login.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "BasePath": "_content/Bloggie",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
+    },
+    {
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\navbar.css",
+      "SourceId": "Bloggie",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "css/navbar.css",
       "AssetKind": "All",
@@ -112,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\navbar.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\site.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\css\\site.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\favicon.ico",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\favicon.ico",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\1d25955e-61e3-42d6-a3cc-392989ba1680.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\1d25955e-61e3-42d6-a3cc-392989ba1680.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/1d25955e-61e3-42d6-a3cc-392989ba1680.jpg",
       "AssetKind": "All",
@@ -169,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\1d25955e-61e3-42d6-a3cc-392989ba1680.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7081496c-5c72-4329-ab07-58aaf79d3e60.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7081496c-5c72-4329-ab07-58aaf79d3e60.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/7081496c-5c72-4329-ab07-58aaf79d3e60.jpg",
       "AssetKind": "All",
@@ -188,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\7081496c-5c72-4329-ab07-58aaf79d3e60.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7be9cea7-63ec-4fe3-aff7-852d2e3ab704.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7be9cea7-63ec-4fe3-aff7-852d2e3ab704.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/7be9cea7-63ec-4fe3-aff7-852d2e3ab704.jpg",
       "AssetKind": "All",
@@ -207,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\7be9cea7-63ec-4fe3-aff7-852d2e3ab704.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7dbe5c3a-3cbd-4189-8be9-d8dceeda4973.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\7dbe5c3a-3cbd-4189-8be9-d8dceeda4973.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/7dbe5c3a-3cbd-4189-8be9-d8dceeda4973.jpg",
       "AssetKind": "All",
@@ -226,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\7dbe5c3a-3cbd-4189-8be9-d8dceeda4973.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\846b2423-5ef1-4f1c-be1f-1a1c344fe2f3.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\846b2423-5ef1-4f1c-be1f-1a1c344fe2f3.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/846b2423-5ef1-4f1c-be1f-1a1c344fe2f3.jpg",
       "AssetKind": "All",
@@ -245,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\846b2423-5ef1-4f1c-be1f-1a1c344fe2f3.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\98ddc4f6-a47e-43a2-9be6-0e4f509e0d33.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\98ddc4f6-a47e-43a2-9be6-0e4f509e0d33.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/98ddc4f6-a47e-43a2-9be6-0e4f509e0d33.jpg",
       "AssetKind": "All",
@@ -264,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\98ddc4f6-a47e-43a2-9be6-0e4f509e0d33.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\afd2a66c-b1b1-452e-8697-e8a096ba2cec.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\Posts\\afd2a66c-b1b1-452e-8697-e8a096ba2cec.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/Posts/afd2a66c-b1b1-452e-8697-e8a096ba2cec.jpg",
       "AssetKind": "All",
@@ -283,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Posts\\afd2a66c-b1b1-452e-8697-e8a096ba2cec.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\users\\9ad5cf90-2f65-485a-9c20-8759b0db0888.jpg",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\images\\users\\9ad5cf90-2f65-485a-9c20-8759b0db0888.jpg",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "images/users/9ad5cf90-2f65-485a-9c20-8759b0db0888.jpg",
       "AssetKind": "All",
@@ -302,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\9ad5cf90-2f65-485a-9c20-8759b0db0888.jpg"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\js\\site.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\js\\site.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -321,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -340,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -359,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -378,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -397,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -416,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -435,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -454,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -492,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -511,10 +530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -530,10 +549,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -549,10 +568,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -568,10 +587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -587,10 +606,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -606,10 +625,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -625,10 +644,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -644,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -663,10 +682,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -682,10 +701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -701,10 +720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -720,10 +739,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -739,10 +758,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -758,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -777,10 +796,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -796,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -815,10 +834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -834,10 +853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -853,10 +872,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -872,10 +891,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -891,10 +910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -910,10 +929,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -929,10 +948,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -948,10 +967,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -967,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -986,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1005,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1024,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1043,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1062,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1081,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1100,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1119,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1138,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1157,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1176,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1195,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1214,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1233,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1252,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1271,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1290,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1309,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1328,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1347,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1366,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1385,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Bloggie",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\my website\\ASP_NET\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
+      "ContentRoot": "D:\\365\\DEMO\\Bloggie\\Bloggie\\wwwroot\\",
       "BasePath": "_content/Bloggie",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
