@@ -1,0 +1,11 @@
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\bin\Debug\net8.0\DomainLayer.deps.json
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\bin\Debug\net8.0\DomainLayer.dll
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\bin\Debug\net8.0\DomainLayer.pdb
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfoInputs.cache
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.AssemblyInfo.cs
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.csproj.CoreCompileInputs.cache
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.dll
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\refint\DomainLayer.dll
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\DomainLayer.pdb
+D:\365\CleanArchitecture\DemoCleanArchitectureWithCQRS\DomainLayer\obj\Debug\net8.0\ref\DomainLayer.dll
